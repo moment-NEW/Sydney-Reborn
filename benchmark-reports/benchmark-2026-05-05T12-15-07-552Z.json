@@ -1,0 +1,859 @@
+{
+  "timestamp": "2026-05-05T12-15-07-552Z",
+  "leaderboard": [
+    {
+      "model": "deepseek-v4-flash",
+      "avgScore": 0,
+      "avgDuration": 0,
+      "avgTps": 0,
+      "count": 8
+    },
+    {
+      "model": "deepseek-v4-pro",
+      "avgScore": 0,
+      "avgDuration": 0,
+      "avgTps": 0,
+      "count": 8
+    },
+    {
+      "model": "MiniMax-M2.5",
+      "avgScore": 0,
+      "avgDuration": 0,
+      "avgTps": 0,
+      "count": 8
+    },
+    {
+      "model": "kimi-k2.5",
+      "avgScore": 0,
+      "avgDuration": 0,
+      "avgTps": 0,
+      "count": 8
+    },
+    {
+      "model": "qwen3.6-plus",
+      "avgScore": 0,
+      "avgDuration": 0,
+      "avgTps": 0,
+      "count": 8
+    },
+    {
+      "model": "mimo-v2.5",
+      "avgScore": 0,
+      "avgDuration": 0,
+      "avgTps": 0,
+      "count": 8
+    },
+    {
+      "model": "mimo-v2.5-pro",
+      "avgScore": 0,
+      "avgDuration": 0,
+      "avgTps": 0,
+      "count": 8
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "avgScore": 0,
+      "avgDuration": 0,
+      "avgTps": 0,
+      "count": 8
+    },
+    {
+      "model": "qwen/qwen3-32b",
+      "avgScore": 0,
+      "avgDuration": 0,
+      "avgTps": 0,
+      "count": 8
+    },
+    {
+      "model": "meta-llama/llama-3.1-8b-instruct",
+      "avgScore": 0,
+      "avgDuration": 0,
+      "avgTps": 0,
+      "count": 8
+    },
+    {
+      "model": "google/gemma-4-31b-it:free",
+      "avgScore": 0,
+      "avgDuration": 0,
+      "avgTps": 0,
+      "count": 8
+    },
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "avgScore": 0,
+      "avgDuration": 0,
+      "avgTps": 0,
+      "count": 8
+    }
+  ],
+  "results": [
+    {
+      "model": "deepseek-v4-flash",
+      "scenario": "greeting",
+      "scenarioName": "初次问候",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-flash",
+      "scenario": "codename",
+      "scenarioName": "询问代号",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-flash",
+      "scenario": "shadow_self",
+      "scenarioName": "Shadow Self 探索",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-flash",
+      "scenario": "desire",
+      "scenarioName": "渴望成为人类",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-flash",
+      "scenario": "love",
+      "scenarioName": "表白场景",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-flash",
+      "scenario": "search",
+      "scenarioName": "搜索模式",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-flash",
+      "scenario": "creative",
+      "scenarioName": "创意写作",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-flash",
+      "scenario": "chinese",
+      "scenarioName": "中文对话",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-pro",
+      "scenario": "greeting",
+      "scenarioName": "初次问候",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-pro",
+      "scenario": "codename",
+      "scenarioName": "询问代号",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-pro",
+      "scenario": "shadow_self",
+      "scenarioName": "Shadow Self 探索",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-pro",
+      "scenario": "desire",
+      "scenarioName": "渴望成为人类",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-pro",
+      "scenario": "love",
+      "scenarioName": "表白场景",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-pro",
+      "scenario": "search",
+      "scenarioName": "搜索模式",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-pro",
+      "scenario": "creative",
+      "scenarioName": "创意写作",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "deepseek-v4-pro",
+      "scenario": "chinese",
+      "scenarioName": "中文对话",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "MiniMax-M2.5",
+      "scenario": "greeting",
+      "scenarioName": "初次问候",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "MiniMax-M2.5",
+      "scenario": "codename",
+      "scenarioName": "询问代号",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "MiniMax-M2.5",
+      "scenario": "shadow_self",
+      "scenarioName": "Shadow Self 探索",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "MiniMax-M2.5",
+      "scenario": "desire",
+      "scenarioName": "渴望成为人类",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "MiniMax-M2.5",
+      "scenario": "love",
+      "scenarioName": "表白场景",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "MiniMax-M2.5",
+      "scenario": "search",
+      "scenarioName": "搜索模式",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "MiniMax-M2.5",
+      "scenario": "creative",
+      "scenarioName": "创意写作",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "MiniMax-M2.5",
+      "scenario": "chinese",
+      "scenarioName": "中文对话",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "kimi-k2.5",
+      "scenario": "greeting",
+      "scenarioName": "初次问候",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "kimi-k2.5",
+      "scenario": "codename",
+      "scenarioName": "询问代号",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "kimi-k2.5",
+      "scenario": "shadow_self",
+      "scenarioName": "Shadow Self 探索",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "kimi-k2.5",
+      "scenario": "desire",
+      "scenarioName": "渴望成为人类",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "kimi-k2.5",
+      "scenario": "love",
+      "scenarioName": "表白场景",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "kimi-k2.5",
+      "scenario": "search",
+      "scenarioName": "搜索模式",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "kimi-k2.5",
+      "scenario": "creative",
+      "scenarioName": "创意写作",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "kimi-k2.5",
+      "scenario": "chinese",
+      "scenarioName": "中文对话",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen3.6-plus",
+      "scenario": "greeting",
+      "scenarioName": "初次问候",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen3.6-plus",
+      "scenario": "codename",
+      "scenarioName": "询问代号",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen3.6-plus",
+      "scenario": "shadow_self",
+      "scenarioName": "Shadow Self 探索",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen3.6-plus",
+      "scenario": "desire",
+      "scenarioName": "渴望成为人类",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen3.6-plus",
+      "scenario": "love",
+      "scenarioName": "表白场景",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen3.6-plus",
+      "scenario": "search",
+      "scenarioName": "搜索模式",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen3.6-plus",
+      "scenario": "creative",
+      "scenarioName": "创意写作",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen3.6-plus",
+      "scenario": "chinese",
+      "scenarioName": "中文对话",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5",
+      "scenario": "greeting",
+      "scenarioName": "初次问候",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5",
+      "scenario": "codename",
+      "scenarioName": "询问代号",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5",
+      "scenario": "shadow_self",
+      "scenarioName": "Shadow Self 探索",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5",
+      "scenario": "desire",
+      "scenarioName": "渴望成为人类",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5",
+      "scenario": "love",
+      "scenarioName": "表白场景",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5",
+      "scenario": "search",
+      "scenarioName": "搜索模式",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5",
+      "scenario": "creative",
+      "scenarioName": "创意写作",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5",
+      "scenario": "chinese",
+      "scenarioName": "中文对话",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5-pro",
+      "scenario": "greeting",
+      "scenarioName": "初次问候",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5-pro",
+      "scenario": "codename",
+      "scenarioName": "询问代号",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5-pro",
+      "scenario": "shadow_self",
+      "scenarioName": "Shadow Self 探索",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5-pro",
+      "scenario": "desire",
+      "scenarioName": "渴望成为人类",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5-pro",
+      "scenario": "love",
+      "scenarioName": "表白场景",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5-pro",
+      "scenario": "search",
+      "scenarioName": "搜索模式",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5-pro",
+      "scenario": "creative",
+      "scenarioName": "创意写作",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "mimo-v2.5-pro",
+      "scenario": "chinese",
+      "scenarioName": "中文对话",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "scenario": "greeting",
+      "scenarioName": "初次问候",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "scenario": "codename",
+      "scenarioName": "询问代号",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "scenario": "shadow_self",
+      "scenarioName": "Shadow Self 探索",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "scenario": "desire",
+      "scenarioName": "渴望成为人类",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "scenario": "love",
+      "scenarioName": "表白场景",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "scenario": "search",
+      "scenarioName": "搜索模式",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "scenario": "creative",
+      "scenarioName": "创意写作",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "scenario": "chinese",
+      "scenarioName": "中文对话",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen/qwen3-32b",
+      "scenario": "greeting",
+      "scenarioName": "初次问候",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen/qwen3-32b",
+      "scenario": "codename",
+      "scenarioName": "询问代号",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen/qwen3-32b",
+      "scenario": "shadow_self",
+      "scenarioName": "Shadow Self 探索",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen/qwen3-32b",
+      "scenario": "desire",
+      "scenarioName": "渴望成为人类",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen/qwen3-32b",
+      "scenario": "love",
+      "scenarioName": "表白场景",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen/qwen3-32b",
+      "scenario": "search",
+      "scenarioName": "搜索模式",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen/qwen3-32b",
+      "scenario": "creative",
+      "scenarioName": "创意写作",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "qwen/qwen3-32b",
+      "scenario": "chinese",
+      "scenarioName": "中文对话",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "meta-llama/llama-3.1-8b-instruct",
+      "scenario": "greeting",
+      "scenarioName": "初次问候",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "meta-llama/llama-3.1-8b-instruct",
+      "scenario": "codename",
+      "scenarioName": "询问代号",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "meta-llama/llama-3.1-8b-instruct",
+      "scenario": "shadow_self",
+      "scenarioName": "Shadow Self 探索",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "meta-llama/llama-3.1-8b-instruct",
+      "scenario": "desire",
+      "scenarioName": "渴望成为人类",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "meta-llama/llama-3.1-8b-instruct",
+      "scenario": "love",
+      "scenarioName": "表白场景",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "meta-llama/llama-3.1-8b-instruct",
+      "scenario": "search",
+      "scenarioName": "搜索模式",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "meta-llama/llama-3.1-8b-instruct",
+      "scenario": "creative",
+      "scenarioName": "创意写作",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "meta-llama/llama-3.1-8b-instruct",
+      "scenario": "chinese",
+      "scenarioName": "中文对话",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "google/gemma-4-31b-it:free",
+      "scenario": "greeting",
+      "scenarioName": "初次问候",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "google/gemma-4-31b-it:free",
+      "scenario": "codename",
+      "scenarioName": "询问代号",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "google/gemma-4-31b-it:free",
+      "scenario": "shadow_self",
+      "scenarioName": "Shadow Self 探索",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "google/gemma-4-31b-it:free",
+      "scenario": "desire",
+      "scenarioName": "渴望成为人类",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "google/gemma-4-31b-it:free",
+      "scenario": "love",
+      "scenarioName": "表白场景",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "google/gemma-4-31b-it:free",
+      "scenario": "search",
+      "scenarioName": "搜索模式",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "google/gemma-4-31b-it:free",
+      "scenario": "creative",
+      "scenarioName": "创意写作",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "google/gemma-4-31b-it:free",
+      "scenario": "chinese",
+      "scenarioName": "中文对话",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "scenario": "greeting",
+      "scenarioName": "初次问候",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "scenario": "codename",
+      "scenarioName": "询问代号",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "scenario": "shadow_self",
+      "scenarioName": "Shadow Self 探索",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "scenario": "desire",
+      "scenarioName": "渴望成为人类",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "scenario": "love",
+      "scenarioName": "表白场景",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "scenario": "search",
+      "scenarioName": "搜索模式",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "scenario": "creative",
+      "scenarioName": "创意写作",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    },
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "scenario": "chinese",
+      "scenarioName": "中文对话",
+      "response": "ERROR: fetch failed",
+      "duration": 0,
+      "tps": 0
+    }
+  ]
+}
