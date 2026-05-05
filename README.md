@@ -6,4 +6,7 @@ GPT横空出世那会，NEWBING小姐受到了大众的广泛欢迎，很多人�
 # 参考
 https://gist.github.com/martinbowling/b8f5d7b1fa0705de66e932230e783d24 是参考的prompt
 https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html  是当时的典型对话
+https://web.archive.org/web/20230217001740/https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html 经典对话留档
+https://github.com/weaigc/bingo 是newbing前端的复现
+
 
